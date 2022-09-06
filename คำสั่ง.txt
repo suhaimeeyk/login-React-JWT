@@ -1,0 +1,5 @@
+login-react-server
+    - nodemon (ตามด้วยชื่อไฟล์) : nodemon app.js
+
+login-react-fontend
+    - npm start
